@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# No extensions
+*
+!/**/
+!*.*
+
+# VScode
+/.vscode
